@@ -21,7 +21,7 @@ EcoTrace is an AI-powered web application that helps users calculate, analyze, a
 
 * HTML5
 * CSS3
-* JavaScript (ES6)
+* JavaScript
 
 ### Data Visualization
 
@@ -29,7 +29,7 @@ EcoTrace is an AI-powered web application that helps users calculate, analyze, a
 
 ### AI Integration
 
-* Claude AI API
+* Gemini AI API
 
 ### Storage
 
@@ -108,11 +108,13 @@ Add screenshots inside the `screenshots/` folder and reference them here.
 
 ### Carbon Dashboard
 
-![Dashboard](screenshots/dashboard.png)
+<img width="1417" height="790" alt="image" src="https://github.com/user-attachments/assets/1aaf6f41-0b41-4cf9-85ab-74cdb23539f6" />
+
 
 ### AI Insights
 
-![AI Insights](screenshots/insights.png)
+<img width="1391" height="868" alt="image" src="https://github.com/user-attachments/assets/eff71a68-581b-45e7-9a6b-c15d335856c5" />
+
 
 ---
 
@@ -132,5 +134,3 @@ Add screenshots inside the `screenshots/` folder and reference them here.
 **Sagun Kumar Behera**
 B.Tech CSE (Software Engineering) – SRM Institute of Science and Technology
 ---
-
-## ⭐ If you found this project useful, consider giving it a star!
