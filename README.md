@@ -47,10 +47,10 @@ EcoTrace is an AI-powered web application that helps users calculate, analyze, a
 ```text
 EcoTrace/
 │
-├── ecotrace.html
-├── assets/
-│   ├── images/
-│   └── icons/
+├── outputs/
+│   ├── ecotrace.html
+├── work/
+│   └── ecotrace_script_check.js
 │
 ├── screenshots/
 │   ├── homepage.png
@@ -122,15 +122,10 @@ Add screenshots inside the `screenshots/` folder and reference them here.
 
 * User Authentication
 * Database Integration
-* Carbon Footprint History Dashboard
 * Renewable Energy Recommendations
-* Mobile Application
-* Real-time Emission Tracking
-
 ---
 
 ## 👨‍💻 Author
 
 **Sagun Kumar Behera**
-B.Tech CSE (Software Engineering) – SRM Institute of Science and Technology
 ---
